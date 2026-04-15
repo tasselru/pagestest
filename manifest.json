@@ -1,0 +1,14 @@
+ 
+{
+  "name": "Rudicore-M5 firmware",
+  "version": "0.0.1",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "https://github.com/rudimesh/Rudicore-M5/releases/download/0.0.1/Rudicore-M5.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
