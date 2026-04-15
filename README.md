@@ -1,5 +1,5 @@
- ## Firmware installeren
+ ## Firmware install
 
-Klik hier om je ESP te flashen:
+Click here to go to the web installer and flash the firmware:
 
-https://jouw-gebruikersnaam.github.io/jouw-repo/
+https://tasselru.github.io/pagestest/
